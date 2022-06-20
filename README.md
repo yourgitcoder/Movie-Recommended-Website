@@ -1,4 +1,7 @@
 # Movie-Recommended-Website
-Are your tired of asking about movie recommendation to your friends.
-You search for movie recomendation ends here.
+Are you tired of asking about movie recommendation to your friends.
+
+<b>
+Okay then.. 
+Your search for movie recomendation ends here.
 We recomended the best movies according to your taste.
